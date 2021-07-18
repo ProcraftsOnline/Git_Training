@@ -1,2 +1,4 @@
 This is a sample Git File.
 Try it for example.
+This is the 1st Commit.
+Try something new.
