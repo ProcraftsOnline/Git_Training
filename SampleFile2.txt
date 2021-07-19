@@ -2,3 +2,4 @@ This is Sample File 2
 
 Testing reset Commit 2
 
+This is Stash Lecture, chang in file 2
